@@ -4,7 +4,7 @@ Sintomas:
     2.Dolor en el pecho
     3.Tos seca
     5.Sibilancias en el pecho
-    6.Incapacidad para dormir
+    6.Insomnio
     7.Cansancio
     8.Congestion nasal
     9.Estornudos
@@ -14,38 +14,34 @@ Sintomas:
 
 2. Amigdalitis
 Sintomas: 
-    1.Dolor intenso en el area mas elevado de la garganta
-    2.Extension del dolor hasta los oidos
+    1.Dolor de la garganta
+    2.Dolor hasta los oidos
     3.Dificultad para tragar
     4.Dolor de cabeza
     5.Fiebre
-    7.Tos
-    8.Perdida del habla
-    9.Produccion excesiva de saliva
-    10.Fatiga
-    11.Capa blanca o amarilla sobre los tejidos de las amigdalas
-    12.Amigdalas rojas e inflamadas
-    13.Mal aliento
-    14.Puntos rojos en la parte posterior del paladar
-    15.Nauseas o vomito
+    6.Tos
+    7.Perdida del habla
+    8.Produccion excesiva de saliva
+    9.Fatiga
+    10.Capa blanca o amarilla sobre los tejidos de las amigdalas
+    11.Amigdalas rojas e inflamadas
+    12.Mal aliento
+    13.Nauseas o vomito
 
 3. Bronquitis
 Sintomas: 
     1.Tos seca
     2.Dolor en el pecho
     3.Fatiga
-    4.Dolor de cabeza leve
-    5.Dolores corporales leves
-    6.Dolor de garganta 
-    7.Fiebre
-    8.Dificultad para respirar
-    9.Sensación de Opresión en el pecho
-    10.Goteo nasal
-    11.Mucosidad blanca, verde o amarilla.
-    12.Sibilancias
-    13.Escalofríos
-    14.vómito
-    15.Ronquera
+    4.Dolor de cabeza 
+    5.Dolor de garganta 
+    6.Fiebre
+    7.Dificultad para respirar
+    8.Sensación de Opresión en el pecho
+    9.Mucosidad/flema blanca, verde o amarilla.
+    10.Sibilancias
+    11.vómito
+    12.Ronquera
 
 4. Cáncer de pulmón
 Sintomas: 
@@ -55,15 +51,11 @@ Sintomas:
     4.Sibilancias
     5.Flema con sangre
     6.Sensación de cansancio todo el tiempo
-    7.Perdida de peso 
-    8.Perdida de apetito
-    9.Cansancio
-    10.Hinchazón en el rostro o cuello
-    11.Voz ronca
-    12.Dolor en los hombros
-    13.Engrosamiento de la punta de los dedos
-
-
+    7.Perdida de apetito 
+    8.Cansancio
+    9.Hinchazón en el rostro o cuello
+    10.Voz ronca
+ 
 5. Covid-19
 Sintomas: 
 
@@ -81,17 +73,13 @@ Sintomas:
     1.Dolor en el pecho al respirar
     2.Tos que puede producir flema
     3.Fatiga
-    4.Escalofrio
-    5.Fiebre
-    6.Vomito
-    7.Diarrea
-    8.Dificultad para respirar
-    9.Dolor muscular
-    10.Dolor en articulaciones
-    11.Respiracion agitada
-    12.Sibilancias
-    13.Perdida de apetito
-    14.Deshidratación
+    4.Fiebre
+    5.Vomito
+    6.Diarrea
+    7.Dificultad para respirar
+    8.Sibilancias
+    9.Perdida de apetito
+    10.Deshidratación
 
 10. Rinitis
 Sintomas: 
