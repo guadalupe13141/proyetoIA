@@ -3,45 +3,44 @@ Sintomas:
     1.Dificultad respiratoria 
     2.Dolor en el pecho
     3.Tos seca
-    5.Sibilancias en el pecho
+    4.Sibilancias en el pecho
     6.Insomnio
     7.Cansancio
-    8.Congestion nasal
-    9.Estornudos
-    10.Flema 
-    11.Ansiedad
-    12.Frecuencia cardiaca acelerada
+    8.Frecuencia cardiaca acelerada
+
+https://cuidateplus.marca.com/enfermedades/respiratorias/asma.html
+
 
 2. Amigdalitis
 Sintomas: 
     1.Dolor de la garganta
-    2.Dolor hasta los oidos
-    3.Dificultad para tragar
-    4.Dolor de cabeza
-    5.Fiebre
-    6.Tos
-    7.Perdida del habla
-    8.Produccion excesiva de saliva
-    9.Fatiga
-    10.Capa blanca o amarilla sobre los tejidos de las amigdalas
-    11.Amigdalas rojas e inflamadas
-    12.Mal aliento
-    13.Nauseas o vomito
+    2.Dificultad para tragar
+    3.Dolor de cabeza
+    4.Fiebre
+    5.Perdida del habla
+    6.Produccion excesiva de saliva
+    7.Capa blanca o amarilla sobre los tejidos de las amigdalas
+    8.Amigdalas rojas e inflamadas
+    9.Mal aliento
+    10.Voz gangosa
+
+https://www.institutoorl-iom.com/amigdalitis-2/
+https://medlineplus.gov/spanish/tonsillitis.html
+
 
 3. Bronquitis
 Sintomas: 
-    1.Tos seca
+    1.Tos seca o con mucosidad
     2.Dolor en el pecho
     3.Fatiga
     4.Dolor de cabeza 
     5.Dolor de garganta 
     6.Fiebre
     7.Dificultad para respirar
-    8.Sensación de Opresión en el pecho
-    9.Mucosidad/flema blanca, verde o amarilla.
-    10.Sibilancias
-    11.vómito
-    12.Ronquera
+    8.Ronquera
+
+https://www.cdc.gov/antibiotic-use/sp/bronchitis.html
+
 
 4. Cáncer de pulmón
 Sintomas: 
@@ -49,24 +48,73 @@ Sintomas:
     2.Dolor en el pecho
     3.Dificultad para respirar
     4.Sibilancias
-    5.Flema con sangre
-    6.Sensación de cansancio todo el tiempo
-    7.Perdida de apetito 
-    8.Cansancio
-    9.Hinchazón en el rostro o cuello
-    10.Voz ronca
+    5.Tos con sangre
+    6.Fatiga
+    7.Perdida de peso 
+    8.Hinchazón en el rostro o cuello
+    9.Voz ronca
  
+https://www.bupasalud.com.mx/salud/cancer-pulmon
+
+
 5. Covid-19
 Sintomas: 
+    1.Fiebre 
+    2.Falta del gusto
+    3.Falta del olfato
+    4.Dolor muscular 
+    5.Tos seca
+    6.Dolor de cabeza
+    7.Diarrea
+    8.Náusea
+    9.Vomito 
+    10.Cansansio 
+    11.Dificultad para respirar
+    12.Dolor de garganta
+
+https://www.nl.gob.mx/campanas/conoce-los-sintomas-del-covid-19
 
 6. Enfisema
 Sintomas: 
+    1.Dificultad para respirar aun descansando
+    2.Pierder lucides
+    3.Labios y uñas azules o grises
+    4.Tos frecuente
+    5.Sibilancias
+    6.Opresión en el pecho
+
+https://www.mayoclinic.org/es-es/diseases-conditions/emphysema/symptoms-causes/syc-20355555
+https://medlineplus.gov/spanish/emphysema.html
 
 7. Gripe
 Sintomas: 
+    1.Fiebre
+    2.Dolor de cabeza
+    3.Dolor de garganta
+    4.Pérdida del apetito 
+    5.Fatiga
+    6.Tos
+    7.Dolores musculares
+    8.Estornudos
+    9.Goteo nasal
+
+https://www.tuasaude.com/es/sintomas-de-gripe/
+
 
 8. Influenza
 Sintomas: 
+    1.Fiebre
+    2.Tos
+    3.Dolor de garganta
+    4.Secreción o congestión nasal
+    5.Dolores musculares o corporales
+    6.Dolores de cabeza
+    7.Fatiga (cansancio)
+    8.Vómitos 
+    9.Diarrea
+
+https://noticieros.televisa.com/historia/sintomas-de-la-influenza-cuales-son-y-como-prevenir-un-contagio/
+
 
 9. Neumonía
 Sintomas: 
@@ -75,38 +123,24 @@ Sintomas:
     3.Fatiga
     4.Fiebre
     5.Vomito
-    6.Diarrea
-    7.Dificultad para respirar
-    8.Sibilancias
-    9.Perdida de apetito
-    10.Deshidratación
+    6.Dificultad para respirar
+    7.Sibilancias
+    8.Perdida de apetito
+    9.Deshidratación
+
+-https://kidshealth.org/es/teens/pneumonia.html
+
 
 10. Rinitis
-Sintomas: 
+Sintomas:
+    1.Obstrución nasal
+    2.Irritacion en la nariz
+    3.Picor de ojos
+    4.Tos seca
+    5.Irritacion de la faringe 
+    6.Estornudos
+    7.Voz gangosa
+    8.Insomnio
+    9.Dificultad para respirar
 
-
-Paginas utilizadas:
-///ASMA
--https://www.sanitas.es/sanitas/seguros/es/particulares/biblioteca-de-salud/enfermedades-y-trastornos/neumologicas/sintomas-tratamiento-asma.html
--https://www.gob.mx/salud/acciones-y-programas/asma?idiom=es
--https://cuidateplus.marca.com/enfermedades/respiratorias/asma.html
--https://www.msdmanuals.com/es-mx/hogar/trastornos-del-pulm%C3%B3n-y-las-v%C3%ADas-respiratorias/asma/asma
-
-///Amigdalitis
--https://www.institutoorl-iom.com/amigdalitis-2/
--https://medlineplus.gov/spanish/tonsillitis.html
--https://www.mayoclinic.org/es-es/diseases-conditions/strep-throat/symptoms-causes/syc-20350338
-
-///Bronquitis
--https://www.cdc.gov/antibiotic-use/sp/bronchitis.html
--https://www.msdmanuals.com/es-mx/hogar/trastornos-del-pulm%C3%B3n-y-las-v%C3%ADas-respiratorias/bronquitis-aguda/bronquitis-aguda
--https://www.pediatriaintegral.es/numeros-anteriores/publicacion-2012-01/bronquitis-y-bronquiolitis/
-
-///Cáncer de pulmón
--https://www.cdc.gov/spanish/cancer/lung/basic_info/symptoms.htm
--https://www.cun.es/enfermedades-tratamientos/enfermedades/cancer-pulmon
--https://www.bupasalud.com.mx/salud/cancer-pulmon
-
-//Neumonía
--https://www.mayoclinic.org/es-es/diseases-conditions/pneumonia/symptoms-causes/syc-20354204
--https://kidshealth.org/es/teens/pneumonia.html
+https://okdiario.com/salud/sintomas-rinitis-2795235
