@@ -3,10 +3,8 @@ Sintomas:
     1.Dificultad respiratoria 
     2.Dolor en el pecho
     3.Tos seca
-    4.Sibilancias en el pecho
-    6.Insomnio
-    7.Cansancio
-    8.Frecuencia cardiaca acelerada
+    4.Fatiga
+    5.Frecuencia cardiaca acelerada
 
 https://cuidateplus.marca.com/enfermedades/respiratorias/asma.html
 
@@ -14,15 +12,10 @@ https://cuidateplus.marca.com/enfermedades/respiratorias/asma.html
 2. Amigdalitis
 Sintomas: 
     1.Dolor de la garganta
-    2.Dificultad para tragar
-    3.Dolor de cabeza
-    4.Fiebre
-    5.Perdida del habla
-    6.Produccion excesiva de saliva
-    7.Capa blanca o amarilla sobre los tejidos de las amigdalas
-    8.Amigdalas rojas e inflamadas
-    9.Mal aliento
-    10.Voz gangosa
+    2.Dolor de cabeza
+    3.Fiebre
+    4.Amigdalas rojas e inflamadas
+    5.Voz gangosa
 
 https://www.institutoorl-iom.com/amigdalitis-2/
 https://medlineplus.gov/spanish/tonsillitis.html
@@ -32,7 +25,7 @@ https://medlineplus.gov/spanish/tonsillitis.html
 Sintomas: 
     1.Tos seca o con mucosidad
     2.Dolor en el pecho
-    3.Fatiga
+    3.Fatiga/cansancio
     4.Dolor de cabeza 
     5.Dolor de garganta 
     6.Fiebre
@@ -47,12 +40,12 @@ Sintomas:
     1.Tos persistente o que empeora
     2.Dolor en el pecho
     3.Dificultad para respirar
-    4.Sibilancias
-    5.Tos con sangre
-    6.Fatiga
-    7.Perdida de peso 
-    8.Hinchazón en el rostro o cuello
-    9.Voz ronca
+    4.Flema con sangre
+    5.Fatiga
+    6.Hinchazón en el rostro o cuello
+    7.Voz ronca
+    8.Dolor de cabeza
+    9.Fiebre
  
 https://www.bupasalud.com.mx/salud/cancer-pulmon
 
@@ -60,17 +53,14 @@ https://www.bupasalud.com.mx/salud/cancer-pulmon
 5. Covid-19
 Sintomas: 
     1.Fiebre 
-    2.Falta del gusto
-    3.Falta del olfato
-    4.Dolor muscular 
-    5.Tos seca
-    6.Dolor de cabeza
-    7.Diarrea
-    8.Náusea
-    9.Vomito 
-    10.Cansansio 
-    11.Dificultad para respirar
-    12.Dolor de garganta
+    2.Falta del gusto y olfato
+    3.Tos seca
+    4.Dolor de cabeza
+    5.Náuseas o vomito
+    6.Fatiga
+    7.Dificultad para respirar
+    8.Dolor de garganta
+    9.Dolor en pecho
 
 https://www.nl.gob.mx/campanas/conoce-los-sintomas-del-covid-19
 
@@ -80,8 +70,8 @@ Sintomas:
     2.Pierder lucides
     3.Labios y uñas azules o grises
     4.Tos frecuente
-    5.Sibilancias
-    6.Opresión en el pecho
+    5.Dolor en el pecho
+    6.Fatiga
 
 https://www.mayoclinic.org/es-es/diseases-conditions/emphysema/symptoms-causes/syc-20355555
 https://medlineplus.gov/spanish/emphysema.html
@@ -91,12 +81,12 @@ Sintomas:
     1.Fiebre
     2.Dolor de cabeza
     3.Dolor de garganta
-    4.Pérdida del apetito 
-    5.Fatiga
-    6.Tos
-    7.Dolores musculares
-    8.Estornudos
-    9.Goteo nasal
+    4.Fatiga
+    5.Tos
+    6.Estornudos
+    7.Goteo nasal
+    8.congestión nasal
+    9.Voz gangosa
 
 https://www.tuasaude.com/es/sintomas-de-gripe/
 
@@ -107,11 +97,10 @@ Sintomas:
     2.Tos
     3.Dolor de garganta
     4.Secreción o congestión nasal
-    5.Dolores musculares o corporales
-    6.Dolores de cabeza
-    7.Fatiga (cansancio)
-    8.Vómitos 
-    9.Diarrea
+    5.Dolores de cabeza
+    6.Fatiga (cansancio)
+    7.Vómitos 
+    8.Dolor en pecho
 
 https://noticieros.televisa.com/historia/sintomas-de-la-influenza-cuales-son-y-como-prevenir-un-contagio/
 
@@ -124,9 +113,7 @@ Sintomas:
     4.Fiebre
     5.Vomito
     6.Dificultad para respirar
-    7.Sibilancias
-    8.Perdida de apetito
-    9.Deshidratación
+    7.Deshidratación
 
 -https://kidshealth.org/es/teens/pneumonia.html
 
@@ -134,13 +121,11 @@ Sintomas:
 10. Rinitis
 Sintomas:
     1.Obstrución nasal
-    2.Irritacion en la nariz
-    3.Picor de ojos
-    4.Tos seca
-    5.Irritacion de la faringe 
-    6.Estornudos
-    7.Voz gangosa
-    8.Insomnio
-    9.Dificultad para respirar
+    2.Picor de ojos
+    3.Tos seca
+    4.Estornudos
+    5.Voz gangosa
+    6.Dificultad para respirar
+    7.Fatiga
 
 https://okdiario.com/salud/sintomas-rinitis-2795235
