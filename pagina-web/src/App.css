@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
+
+body{
+    background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2016/02/26/899109/61398992c74607782623a4f2597cc84c-700.jpg");
+    background-size: cover;
+    border: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar {
+background: #01579B;
+box-shadow: 0px 6px 5px -6px black;
+min-height:70px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.text {
+    color: #01579B;
+    background-color: transparent;
+    z-index: 1;
+    box-sizing: content-box;
+    text-align: center;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+ 
+.background {
+    box-sizing: border-box;
+    width: 70%;
+    height: 70vh;
+    background-color: #fff;
+    margin: 5% 0 0 16%;
+    border-radius: 30px;
+    box-shadow: 0 0 10px -1px black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+ 
+.trans {
+    opacity: 0.93;
 }
