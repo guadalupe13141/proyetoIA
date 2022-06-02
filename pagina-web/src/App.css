@@ -1,14 +1,15 @@
 
 body{
     background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2016/02/26/899109/61398992c74607782623a4f2597cc84c-700.jpg");
-    background-size: cover;
+    background-size: contain;
+    background-repeat: repeats;
     border: none;
 }
 
 .navbar {
-background: #01579B;
-box-shadow: 0px 6px 5px -6px black;
-min-height:70px !important;
+    background: #01579B;
+    box-shadow: 0px 6px 5px -6px black;
+    min-height:70px !important;
 }
 
 .text {
@@ -34,4 +35,46 @@ min-height:70px !important;
  
 .trans {
     opacity: 0.93;
+}
+
+div.p-4{
+    opacity: 0.94;
+    border-radius: 8px;
+    box-shadow: 0 0 10px -1px black;
+    top: -2.5%;
+    width: 750px;
+    left: -16%;
+}
+  
+.formTitle{
+    height: 60px;
+}
+
+.lab{
+    color: black;
+    font-weight: bolder;
+}
+
+.guardar{
+    position: relative;
+    margin-left:414px;
+    margin-top: 30px;
+}
+
+.titulo{
+    width: 50%;
+    position: relative;
+    top: 80px;
+    left: 34%;
+    z-index: 1;
+    color: #01579B;
+    text-transform: uppercase;
+}
+
+.descripcion{
+    position: relative;
+    top: 92px;
+    left: 20%;
+    z-index: 1;
+    width: 60%;
 }

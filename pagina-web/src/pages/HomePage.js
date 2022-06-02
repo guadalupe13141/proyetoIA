@@ -14,6 +14,7 @@ function Home() {
           <h3>Integrantes:</h3>
           <h3>Andres Jimenez Elizalde 259678</h3>
           <h3>Guadalupe Salazar Castillo 261540</h3>
+          <h3>Carlos Abraham Mendieta Robledo 290273</h3>
         </div>
       </div>
     </Container>

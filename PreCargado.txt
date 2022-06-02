@@ -1,0 +1,289 @@
+//User Response
+var cliente_Resp = {datos_Enfermedad: [0.8, 0.6, 0.6, 0.4, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]};
+/*
+function makeString(string, position){
+window.makeString=function(string, position){
+*/
+//ASMA
+
+//REGRESA LOS VALORES COMUNES
+const d1 = {
+    enfermedad: `Asma`,
+    caracteristicas: `Los síntomas, la frecuencia y la gravedad del asma varían de una persona a otra y suelen empeorar con la actividad física o por la noche.`,
+    prevencion: `Durante las crisis asmáticas la mucosa bronquial que recubre los conductos respiratorios se inflama y se produce un moco espeso que obstruye los conductos de las vías aéreas. <br>
+    Como consecuencia, los músculos que rodean estos conductos se contraen y estrechan disminuyendo su diámetro, impiden el paso del aire y complican la respiración.
+    .`,
+    datos_Enfermedad: [0.8, 0.6, 0.6, 0.4, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+}
+
+const d2 = {
+    enfermedad: `Amagdalitis`,
+    caracteristicas: `Los síntomas que el paciente experimente dependen del tipo de amigdalitis desarrollado. En el caso de la amigdalitis aguda, los síntomas más comunes desde el inicio de la enfermedad son los siguiente
+    <br>Dolor: intenso en el área más elevada de la garganta
+    <br>Extensión del dolor hasta los oídos, en caso de que el estado de la amigdalitis sea severa.
+    <br>Disfagia (dificultad para tragar).
+    <br>Dolor de cabeza.
+    <br>Fiebre.
+    <br>Voz gangosa.
+    <br>Adenopatías cervicales con dolor.
+    <br>Pérdida del habla.
+    <br>Producción excesiva de saliva.
+    <br>Fatiga.
+    `,
+    prevencion: `Lavarse las manos completamente y con frecuencia, sobre todo después deir al baño y antes de comer
+    <br>Evitar compartir alimentos, vasos, botellas de agua o utensilios
+    <br>Reemplazar el cepillo de dientes después de recibir un diagnóstico deanginas. 
+    `,
+    datos_Enfermedad: [0, 0, 0, 0, 0, 0.4, 0.8, 0.4, 1, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+}
+
+const d3 = {
+    enfermedad: `Bronquitis`,
+    caracteristicas: `Los síntomas de la bronquitis aguda duran menos de 3 semanas y pueden incluir:
+    <br>Tos con o sin mucosidad
+    <br>Dolor en el pecho
+    <br>Cansancio (fatiga)
+    <br>Dolor de cabeza leve
+    <br>Dolores corporales leves
+    <br>Dolor de garganta
+    <br>Fiebre, usualmente baja
+    <br>Dificultad respiratoria que empeora con la actividad
+    `,
+    prevencion: `La bronquitis aguda y la bronquitis crónica no siempre se pueden prevenir. Sin embargo, se pueden tomar medidas para que el riesgo de contraerlas sea menor..
+    <br>Evitar el humo de otros fumadores
+    <br>Evitar el polvo}
+    <br>Evitar los gases
+    <br>Evitar los vapores
+    <br>Evitar la contaminación del aire.`,
+    datos_Enfermedad: [0.8, 0.6, 0.8, 0.4, 0, 0.4, 0.4, 0.4, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+}
+
+const d4 = {
+    enfermedad: `Cáncer de pulmón`,
+    caracteristicas: `La mayoría de las personas con cáncer de pulmón no presentan síntomas tempranos en absoluto, pero puede que otras tengan:
+    <br>Una tos, la cual puede aparecer de manera gradual
+    <br>Un cambio en una tos que ha tenido durante mucho tiempo; por ejemplo, si usted fuma, una tos seca y constante puede convertirse en una tos de pecho
+    <br>Flema con manchas de sangre (esputo)
+    <br>Falta de aire
+    <br>Pérdida del apetito
+    <br>Pérdida de peso
+    <br>Cansancio
+     `,
+    prevencion: `No fumar
+    <br>Dejar de fumar
+    <br<Menor exposición a factores de riesgo en el lugar de trabajo
+    <brReducción de la exposición al radón
+    `,
+    datos_Enfermedad: [1, 0.8, 1, 0.8, 0, 0.4, 0, 0.4, 0, 0, 0, 1, 0.8, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+}
+
+const d5 = {
+    enfermedad: `COVID 19`,
+    caracteristicas: `Síntomas: 
+    <br>1.Fiebre 
+    <br>2.Falta del gusto y olfato
+    <br>3.Tos seca
+    <br>4.Dolor de cabeza
+    <br>5.Náuseas o vómito
+    <br>6.Fatiga
+    <br>7.Dificultad para respirar
+    <br>8.Dolor de garganta
+    <br>9.Dolor en pecho
+`,
+    prevencion: `Para preveenir el COIV-19 puedes hacer lo siguiente:
+    <br>Lavarse las manos
+    <br>Uso de cubrebocas
+    <br>Sana distancia
+    <br>Espacio ventilados
+    <br>Vacunación`,
+    datos_Enfermedad: [1, 0.6, 0.8, 0.8, 0, 0.6, 0.8, 0.8, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+}
+
+const d6 = {
+    enfermedad: `Enfísema`,
+    caracteristicas: `El enfisema puede estar presente durante muchos años sin que notes signos o síntomas. El principal síntoma de enfisema es la dificultad para respirar, que habitualmente comienza en forma gradual.
+    <br>Las principales manifestaciones clínicas del enfisema son la dificultad para respirar que puede ir acompañada de tos crónica (con o sin esputo), la disminución de la capacidad pulmonar a la hora de realizar alguna actividad física o la presencia de sibilancias.
+    `,
+    prevencion: `La mejor manera de prevenir el enfisema es: 
+    <br>No fumar
+    <br>Hacer ejercicio
+    <br>Comer bien
+    `,
+    datos_Enfermedad: [1, 0.8, 0.8, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+}
+
+const d7 = {
+    enfermedad: `Gripe`,
+    caracteristicas: `Los principales síntomas de la gripe son:
+    <br>Fiebre, normalmente entre 38 y 40ºC;
+    <br>Escalofríos;
+    <br>Dolor de cabeza;
+    <br>Tos, estornudos y nariz con mucosidad;
+    <br>Dolor de garganta;
+    <br>Dolor muscular, especialmente en la espalda y en las piernas;
+    <br>Pérdida del apetito y cansancio. 
+    <br>Goteo nasal
+    <br>Voz gangosa
+    `,
+    prevencion: `Cúbrete nariz y boca al toser o estornudar con un pañuelo desechable
+    <br>No compartas alimentos, vasos o cubiertos.
+    <br>Ventila bien las habitaciones.`,
+    datos_Enfermedad: [0, 0, 0.2, 0.6, 0, 0.6, 0.8, 0.8, 0, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0.8, 1, 0, 8,0]
+}
+
+const d8 = {
+    enfermedad: `Influenza`,
+    caracteristicas: `Los síntomas más comunes de la influenza son:
+    <br>Fiebre
+    <br>Sensación de escalofríos o cuerpo cortado
+    <br>Tos
+    <br>Dolor de garganta
+    <br>Secreción o congestión nasal
+    <br>Dolores musculares o corporales
+    <br>Dolores de cabeza
+    <br>Fatiga (cansancio)
+    <br>Vómitos y diarrea, aunque esto es más común en algunas personas y niños.
+    `,
+    prevencion: `Como evitar la influenza
+    <br>No compartas alimentos, vasos ni cubiertos
+    <br>Mantente alejado de las personas que tengan infección respiratoria
+    <br>Tose o estornuda cubriéndote la boca y nariz con la parte interna del brazo.
+    <br>Abrígate y evita cambios bruscos de temperatura
+    <br>Lávate las manos frecuentemente con agua y jabón
+    <br>No fumes en lugares cerrados,  ni cerca de niños, ancianos o enfermos`,
+    datos_Enfermedad: [0, 0.2, 0.8, 0.6, 0, 0.6, 0.8, 0.8, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+}
+
+const d9 = {
+    enfermedad: `Neumonía`,
+    caracteristicas: `Es común que una persona con neumonía comience con algo suave, como tos o dolor de garganta, síntomas que también suelen presentarse en otras infecciones. Pero la neumonía es un poco peor porque la infección baja directo a los pulmones.
+    <br>Una persona con neumonía podría tener los siguientes síntomas:
+    <br>Fiebre (usualmente una temperatura superior a 101 °F/38,5 °C)
+    <br>Escalofríos
+    <br>Tos
+    <br>Respiración agitada (una persona podría usar la panza o los músculos del cuello para ayudarse a respirar)
+    <br>Resuello o respiración sibilante
+    <br>Dificultad para respirar
+    <br>Dolor de pecho o abdominal
+    <br>Pérdida del apetito
+    <br>Cansancio
+    `,
+    prevencion: `Como preevenir la neumonia:
+    <br>Las vacunas pueden ayudar a prevenir algunos tipos de neumonía. 
+    <br>Una buena higiene (lavarse las manos con frecuencia)
+    <br>Dejar de fumar
+    <br>Mantener el sistema inmunitario fuerte mediante actividad física regular y una dieta saludable`,
+    datos_Enfermedad: [0.8, 0.8, 0.8, 0.8, 0, 0, 0, 0.8, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+}
+
+const d10 = {
+    enfermedad: `Rinitis`,
+    caracteristicas: `La obstrucción nasal es, sin lugar a dudas, el síntoma más frecuente de la rinitis. La gente que lo experimenta notará una sensación de ocupación de las fosas nasales por contenido mucoso. 
+    <br>Suele ser líquido, por lo que deberemos llevar con nosotros un pañuelo para limpiarse con regularidad la nariz. Lo más probable es que todo esto desencadene una irritación de las alas de la nariz, con escozor, enrojecimiento y dificultad para respirar..
+    `,
+    prevencion: `Para preveenir la Rinitis puedes:
+    <br>La utilización de mascarilla puede disminuir notablemente los síntomas.
+    <br>Evitar el contacto con animales o mascotas
+    <br>Puedes usar antihistamínicos, inhalaciones de fármacos descongestionantes
+    <br>Laverse las manifestaciones
+    <br>Evitar lugares cerrados`,
+    datos_Enfermedad: [0.6, 0, 0.2, 0.4, 0, 0, 0, 0, 0, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 0, 0.8, 0.6]
+}
+
+const ENFERMEDADES_BASE = [d1, d2, d3, d4, d5, d6, d7, d8, d9, d10];
+const u = 0.3;
+
+// MÉTODOS MAX-MIN PARA OBTENER LOS RESULTADOS
+function specificDiagnosis(cliente_Resp, xenfemedades) {
+    let [com, res] = [[], []];
+    let resultado_Diagnosis = {};
+
+    for (let i = 0; i < xenfemedades.length; i++) {
+        for (let m = 0; m < 15; m++) {
+            const hub = parseInt(xenfemedades[i]) - 1;
+            com[m] = Math.min(cliente_Resp[m], ENFERMEDADES_BASE[hub].datos_Enfermedad[m]);
+        }
+        res[i] = com;
+        com = [];
+    }
+
+    for (let i = 0; i < xenfemedades.length; i++) usa[i] = parseFloat(usa[i].reduce((a, b) => a + b, 0));
+
+    let i = usa.indexOf(Math.max.apply(Math, usa));
+
+    if(usa[i] <= u){
+        resultado_Diagnosis[`illness0`] = {
+            enfermedad: `Excelentes noticias`,
+            caracteristicas: `No hemos encontrado ninguna enfermedad`,
+            prevencion: `Si continuas con sintomas, ve a antenderte lo antes posible con un médico`,
+            };
+
+        return resultado_Diagnosis
+    }
+
+    resultado_Diagnosis = {
+        illness0: ENFERMEDADES_BASE[xenfemedades[i]-1],
+    }
+    return Resultado_Diagnosis;
+
+}
+
+function generalDiagnosis(cliente_Resp){
+    let [usa, com, illnessArray] = [[], [], []];
+    let [m, contador] = [0, 0];
+    let Resultado_Diagnosis = {};
+
+    ENFERMEDADES_BASE.map((illness) => {
+        for(let i = 0; i < 15; i++) com[i] = Math.min(cliente_Resp[i], illness.datos_Enfermedad[i]);
+        usa[m] = com;
+        com = [];
+        m++;
+    });
+
+    for(let i = 0; i < 10; i++) usa[i] = parseFloat(usa[i].reduce((a, b) => a + b, 0));
+
+    let i = usa.indexOf(Math.max.apply(Math, usa));
+
+    console.log(usa)
+
+    if(usa[i] <= u){
+        resultado_Diagnosis[`illness0`] = {
+            enfermedad: `Excelentes noticias`,
+            caracteristicas: `No hemos encontrado ninguna enfermedad`,
+            prevencion: `Si continuas con sintomas, ve a antenderte lo antes posible con un médico`,
+        };
+
+        return resultado_Diagnosis
+    }
+
+    for(let k = 0; k < 10; k++) if(usa[k] === usa[i]) illnessArray.push(k);
+
+    illnessArray.map((idx) => {
+        resultado_Diagnosis[`illness${contador}`] = ENFERMEDADES_BASE[idx];
+        contador++;
+    })
+
+    return resultado_Diagnosis;
+}
+
+function Results(){
+    let datos_Enfermedad = getUsersresultado_Diagnosiss()
+    let title = document.getElementById('nombreEnfermedad');
+    let text = document.getElementById('textoEnfermedad');
+    let resultado_Diagnosis;
+
+    if(localStorage.getItem('flag') === 'true'){
+        let selectedIllness = localStorage.getItem('selectedIllness').split(',');
+        resultado_Diagnosis = specificDiagnosis(datos_Enfermedad, selectedIllness);
+    } else {
+        resultado_Diagnosis = generalDiagnosis(datos_Enfermedad);
+    }
+
+    for(let i = 0; i < Object.keys(resultado_Diagnosis).length; i++){
+        if(i === 2) return
+
+        title.innerHTML = `${resultado_Diagnosis[`illness${i}`].enfermedad}`;
+        text.innerHTML = `<h4>Origen</h4>${resultado_Diagnosis[`illness${i}`].caracteristicas}<h4>Recomendaciones</h4>${resultado_Diagnosis[`illness${i}`].prevencion}`
+    }
+}
+

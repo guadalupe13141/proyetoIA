@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
     <Navbar variant="dark" expand="lg">
     <Container>
-        <NavLink to="/" className='navbar-brand' style={{marginLeft:"-8%", fontSize:"21px", color:"white"}}>Enfermedades</NavLink>
+        <NavLink to="/" className='navbar-brand' style={{marginLeft:"-8%", fontSize:"21px", color:"white"}}>Enfermedades Respiratorias</NavLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto" style={{marginLeft:"2%"}}>

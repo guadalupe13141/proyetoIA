@@ -18,7 +18,6 @@ Sintomas:
     5.Voz gangosa
 
 https://www.institutoorl-iom.com/amigdalitis-2/
-https://medlineplus.gov/spanish/tonsillitis.html
 
 
 3. Bronquitis
@@ -30,7 +29,6 @@ Sintomas:
     5.Dolor de garganta 
     6.Fiebre
     7.Dificultad para respirar
-    8.Ronquera
 
 https://www.cdc.gov/antibiotic-use/sp/bronchitis.html
 
@@ -44,8 +42,6 @@ Sintomas:
     5.Fatiga
     6.Hinchazón en el rostro o cuello
     7.Voz ronca
-    8.Dolor de cabeza
-    9.Fiebre
  
 https://www.bupasalud.com.mx/salud/cancer-pulmon
 
@@ -74,7 +70,7 @@ Sintomas:
     6.Fatiga
 
 https://www.mayoclinic.org/es-es/diseases-conditions/emphysema/symptoms-causes/syc-20355555
-https://medlineplus.gov/spanish/emphysema.html
+https://cuidateplus.marca.com/enfermedades/respiratorias/enfisema.html
 
 7. Gripe
 Sintomas: 
@@ -100,7 +96,6 @@ Sintomas:
     5.Dolores de cabeza
     6.Fatiga (cansancio)
     7.Vómitos 
-    8.Dolor en pecho
 
 https://noticieros.televisa.com/historia/sintomas-de-la-influenza-cuales-son-y-como-prevenir-un-contagio/
 
@@ -126,6 +121,6 @@ Sintomas:
     4.Estornudos
     5.Voz gangosa
     6.Dificultad para respirar
-    7.Fatiga
+    7.Goteo nasal
 
 https://okdiario.com/salud/sintomas-rinitis-2795235
